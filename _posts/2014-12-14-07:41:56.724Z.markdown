@@ -1,0 +1,9 @@
+---
+date: 2014-12-14T07:41:56.724Z
+---
+[Matthew Palmer's Tablog](http://matthewpalmer.net/tablog/)
+
+[tablog/2014-12-14-07:25:11.947Z.markdown at gh-pages · matthewpalmer/tablog](https://github.com/matthewpalmer/tablog/blob/gh-pages/_posts/2014-12-14-07:25:11.947Z.markdown)
+
+[Stack Overflow](http://stackoverflow.com/)
+
