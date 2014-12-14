@@ -2,8 +2,13 @@
 date: 2014-12-14T06:09:27.819Z
 ---
 [A Unified Theory of VC Suckage](http://www.paulgraham.com/venturecapital.html)
+
 [An OO Example](http://www.paulgraham.com/ooexample.html)
+
 [Frighteningly Ambitious Startup Ideas](http://www.paulgraham.com/ambitious.html)
+
 [The New Funding Landscape](http://www.paulgraham.com/superangels.html)
+
 [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+
 [Dan Weinreb on NIL](http://www.paulgraham.com/weinreb.html)
