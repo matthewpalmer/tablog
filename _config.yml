@@ -1,0 +1,12 @@
+# Site settings
+title: Matthew Palmer's Tablog
+email: matt@matthewpalmer.net
+description: > # this means to ignore newlines until "baseurl:"
+  Matthew Palmer's Tablog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.matthewpalmer.net/tablog/" # the base hostname & protocol for your site
+twitter_username: _matthewpalmer
+github_username:  matthewpalmer
+
+# Build settings
+markdown: kramdown
