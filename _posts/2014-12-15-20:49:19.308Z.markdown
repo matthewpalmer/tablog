@@ -1,0 +1,11 @@
+---
+date: 2014-12-15T20:49:19.308Z
+---
+[GitHub](https://github.com/)
+
+[Matthew Palmer's Tablog](http://matthewpalmer.net/tablog/)
+
+[Stack Overflow](http://stackoverflow.com/)
+
+[New JavaScript Docs from MSDN!  -  Web Platform Blog](http://blog.webplatform.org/2013/04/new-msdn-js-docs/)
+
