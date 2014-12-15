@@ -1,0 +1,9 @@
+---
+date: 2014-12-15T20:39:45.587Z
+---
+[javascript - window.onload vs document.onload - Stack Overflow](http://stackoverflow.com/questions/588040/window-onload-vs-document-onload)
+
+[Safari Extensions Development Guide: Adding Popovers](https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/AddingPopovers/AddingPopovers.html#//apple_ref/doc/uid/TP40009977-CH21-SW1)
+
+[Array.prototype.reduce() - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+
