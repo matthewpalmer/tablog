@@ -4,7 +4,7 @@ layout: default
 
 {% for post in site.posts %}
   <h2>
-    {{ post.date | date: '%H:%M %p — %-d %B, %Y' }}
+    {{ post.date | date: '%l:%M%P — %-d %B, %Y' }}
   </h2>
   <p>
     {{ post.content }}  
