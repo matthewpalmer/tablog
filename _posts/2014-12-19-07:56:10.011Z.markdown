@@ -1,0 +1,9 @@
+---
+date: 2014-12-19T07:56:10.011Z
+---
+[ios - Instance was deallocated while key value observers were still registered with it - Stack Overflow](http://stackoverflow.com/questions/25056942/instance-was-deallocated-while-key-value-observers-were-still-registered-with-it)
+
+[Regex Tester](http://regexpal.com/)
+
+[ios - Make UITextView multiline (Solved) - Stack Overflow](http://stackoverflow.com/questions/22836613/make-uitextview-multiline-solved)
+
