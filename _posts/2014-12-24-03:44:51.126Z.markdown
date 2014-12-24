@@ -1,0 +1,27 @@
+---
+date: 2014-12-24T03:44:51.126Z
+---
+[matthewpalmer (Matthew Palmer)](https://github.com/matthewpalmer)
+
+[▶ 05 Hold My Eggnog in Kreezus](https://soundcloud.com/local-business-comedy)
+
+[Combust](http://localhost:4000/)
+
+[ios - How to write this code in swift - Stack Overflow](http://stackoverflow.com/questions/24968996/how-to-write-this-code-in-swift)
+
+[ALAssetsLibrary Class Reference](https://developer.apple.com/library/ios/documentation/AssetsLibrary/Reference/ALAssetsLibrary_Class/)
+
+[ios4 - UIButton touch up inside event hook up in coding phase? - Stack Overflow](http://stackoverflow.com/questions/5496482/uibutton-touch-up-inside-event-hook-up-in-coding-phase)
+
+[iOS 8 Photos framework: Get a list of all albums with iOS8 - Stack Overflow](http://stackoverflow.com/questions/25981374/ios-8-photos-framework-get-a-list-of-all-albums-with-ios8)
+
+[Photos Framework Reference](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html#//apple_ref/doc/uid/TP40014408)
+
+[The Swift Programming Language: Control Flow](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html)
+
+[Integration error with Cocoapods and XCode5 - Stack Overflow](http://stackoverflow.com/questions/18881986/integration-error-with-cocoapods-and-xcode5)
+
+[Use of undeclared identifier UIImagePickerController... · Issue #212 · piemonte/PBJVision](https://github.com/piemonte/PBJVision/issues/212)
+
+[piemonte/PBJVision](https://github.com/piemonte/PBJVision)
+
