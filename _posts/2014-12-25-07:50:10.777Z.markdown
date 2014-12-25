@@ -1,0 +1,9 @@
+---
+date: 2014-12-25T07:50:10.777Z
+---
+[Setting up a Common Lisp environment on OS X with Sublime Text 3  -  Mark Trapp](http://marktrapp.com/blog/2014/01/20/lisp-with-os-x-sublime-text/)
+
+[Introduction: Why Lisp?](http://www.gigamonkeys.com/book/introduction-why-lisp.html)
+
+[Tutorials](http://common-lisp.net/tutorials/)
+
