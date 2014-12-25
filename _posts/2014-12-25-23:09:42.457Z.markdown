@@ -1,0 +1,25 @@
+---
+date: 2014-12-25T23:09:42.457Z
+---
+[Daring Fireball](http://daringfireball.net/)
+
+[Mac App Store - Clozure CL](https://itunes.apple.com/us/app/clozure-cl/id489900618?mt=12)
+
+[SLIME: The Superior Lisp Interaction Mode for Emacs](http://common-lisp.net/project/slime/)
+
+[:paste complete (ctrl-D) support · Issue #180 · wuub/SublimeREPL](https://github.com/wuub/SublimeREPL/issues/180)
+
+[bash - Check if string is neither empty not space in shell script - Stack Overflow](http://stackoverflow.com/questions/13509508/check-if-string-is-neither-empty-not-space-in-shell-script)
+
+[bash - Detect if executable file is on user's PATH - Stack Overflow](http://stackoverflow.com/questions/6569478/detect-if-executable-file-is-on-users-path)
+
+[SublimeREPL — SublimeREPL 1.0.30 documentation](https://sublimerepl.readthedocs.org/en/latest/)
+
+[Setting up a Common Lisp environment on OS X with Sublime Text 3  -  Mark Trapp](http://marktrapp.com/blog/2014/01/20/lisp-with-os-x-sublime-text/)
+
+[wuub/SublimeREPL](https://github.com/wuub/SublimeREPL)
+
+[Practical: A Simple Database](http://www.gigamonkeys.com/book/practical-a-simple-database.html)
+
+[Tutorials](http://common-lisp.net/tutorials/)
+
