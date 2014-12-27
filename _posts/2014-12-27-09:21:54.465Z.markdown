@@ -1,0 +1,51 @@
+---
+date: 2014-12-27T09:21:54.465Z
+---
+[ios - How to convert video to GIF image in iPhone? - Stack Overflow](http://stackoverflow.com/questions/19603581/how-to-convert-video-to-gif-image-in-iphone/27665885#27665885)
+
+[matthewpalmer (Matthew Palmer)](https://github.com/matthewpalmer)
+
+[Matthew Palmer — Developer and designer.](http://matthewpalmer.net/)
+
+[default_1419650357137.gif 250×250 pixels](http://wildfire-profile-photos.s3.amazonaws.com/default_1419650357137.gif)
+
+[imagerjs/imager](https://github.com/imagerjs/imager)
+
+[default_1419648534572.gif 250×250 pixels](http://wildfire-profile-photos.s3.amazonaws.com/default_1419648534572.gif)
+
+[matthewpalmer (Matthew Palmer)](https://github.com/matthewpalmer)
+
+[Uploading and resizing an image using Node.js  -  Tony Spiro](http://tonyspiro.com/uploading-and-resizing-an-image-using-node-js/)
+
+[default_1419648534572.gif 250×250 pixels](http://wildfire-profile-photos.s3.amazonaws.com/default_1419648534572.gif)
+
+[default_1419648238136.gif 250×250 pixels](http://wildfire-profile-photos.s3.amazonaws.com/default_1419648238136.gif)
+
+[ios - Uploading GIFs without using UIImage - Stack Overflow](http://stackoverflow.com/questions/26064505/uploading-gifs-without-using-uiimage)
+
+[default_1419643690431.gif 250×250 pixels](http://wildfire-profile-photos.s3.amazonaws.com/default_1419643690431.gif)
+
+[Butterick’s Practical Typography](http://practicaltypography.com/mixing-fonts.html)
+
+[Butterick’s Practical Typography](http://practicaltypography.com/bulleted-and-numbered-lists.html)
+
+[ipad - AVURLAsset refuses to load video - Stack Overflow](http://stackoverflow.com/questions/4101380/avurlasset-refuses-to-load-video)
+
+[cocoa - iOS: Where to find the full list of OSStatus codes for iOS? - Stack Overflow](http://stackoverflow.com/questions/16906111/ios-where-to-find-the-full-list-of-osstatus-codes-for-ios)
+
+[iphone - Thumbnail image of video - Stack Overflow](http://stackoverflow.com/questions/8906004/thumbnail-image-of-video)
+
+[undefined](undefined)
+
+[image - thumbnailImageAtTime: now deprecated - What's the alternative? - Stack Overflow](http://stackoverflow.com/questions/19105721/thumbnailimageattime-now-deprecated-whats-the-alternative)
+
+[core animation - Create and and export an animated gif via iOS? - Stack Overflow](http://stackoverflow.com/questions/14915138/create-and-and-export-an-animated-gif-via-ios)
+
+[ios - How to convert video to GIF image in iPhone? - Stack Overflow](http://stackoverflow.com/questions/19603581/how-to-convert-video-to-gif-image-in-iphone)
+
+[Example of creating an animated GIF on iOS, with no 3rd-party code required. This should also be easy to port to OS X.](https://gist.github.com/mayoff/4969104)
+
+[Practical: A Simple Database](http://www.gigamonkeys.com/book/practical-a-simple-database.html)
+
+[Tutorials](http://common-lisp.net/tutorials/)
+
