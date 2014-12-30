@@ -1,0 +1,17 @@
+---
+date: 2014-12-30T22:36:17.726Z
+---
+[6. Modules — Python 2.7.9 documentation](https://docs.python.org/2/tutorial/modules.html)
+
+[setuptools 10.0.1 : Python Package Index](https://pypi.python.org/pypi/setuptools#windows-simplified)
+
+[COASTALWATCH  -  Surf Cams, Surf Reports and Surf Forecasts](http://www.coastalwatch.com/)
+
+[$set — MongoDB Manual 2.6.6](http://docs.mongodb.org/manual/reference/operator/update/set/)
+
+[Stack Overflow](http://stackoverflow.com/)
+
+[JavaScript toISOString() Method](http://www.w3schools.com/jsref/jsref_toisostring.asp)
+
+[javascript - Node.js 1gb csv file upload - Error: Request aborted - Stack Overflow](http://stackoverflow.com/questions/22399309/node-js-1gb-csv-file-upload-error-request-aborted)
+
