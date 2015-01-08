@@ -1,0 +1,31 @@
+---
+date: 2015-01-08T03:41:53.336Z
+---
+[haskell - How foldr works - Stack Overflow](http://stackoverflow.com/questions/1757740/how-foldr-works)
+
+[Foreign.Marshal.Array](http://hackage.haskell.org/package/base-4.7.0.2/docs/Foreign-Marshal-Array.html)
+
+[hrtlsdr/RTLSDR.chs at master · adamwalker/hrtlsdr](https://github.com/adamwalker/hrtlsdr/blob/master/RTLSDR.chs)
+
+[SDR radio - Google Search](https://www.google.com.au/search?client=safari&rls=en&q=SDR+radio&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=2datVNasM6nu8wfa-oDgDw)
+
+[Summer Camp Projects - Research Group: Software Systems - NICTA WIKI](http://wiki.inside.nicta.com.au/pages/viewpage.action?title=Summer+Camp+Projects&spaceKey=RGPSST)
+
+[steve-m/librtlsdr](https://github.com/steve-m/librtlsdr)
+
+[adamwalker/hrtlsdr](https://github.com/adamwalker/hrtlsdr)
+
+[RTLSDR Scanner  -  Ear to Ear Oak](http://eartoearoak.com/software/rtlsdr-scanner)
+
+[RTLSDR-Scanner/src at master · EarToEarOak/RTLSDR-Scanner](https://github.com/EarToEarOak/RTLSDR-Scanner/tree/master/src)
+
+[LTE Tools](http://www.evrytania.com/lte-tools)
+
+[Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner)
+
+[rtl-sdr – OsmoSDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr#Software)
+
+[librtlsdr/rtl-sdr.h at master · steve-m/librtlsdr](https://github.com/steve-m/librtlsdr/blob/master/include/rtl-sdr.h)
+
+[RTLSDR](https://hackage.haskell.org/package/rtlsdr-0.1.0.2/docs/RTLSDR.html)
+
