@@ -1,0 +1,13 @@
+---
+date: 2015-01-09T05:00:05.686Z
+---
+[String metric - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/String_metric)
+
+[Damerau–Levenshtein distance - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance)
+
+[Bitap algorithm - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Bitap_algorithm)
+
+[agrep - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Agrep)
+
+[Edit distance - HaskellWiki](https://www.haskell.org/haskellwiki/Edit_distance)
+
