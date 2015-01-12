@@ -1,0 +1,9 @@
+---
+date: 2015-01-12T00:31:52.091Z
+---
+[Monad (functional programming) - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Monad_(functional_programming))
+
+[Haskell/Applicative Functors - Wikibooks, open books for an open world](http://en.wikibooks.org/wiki/Haskell/Applicative_Functors)
+
+[A Fistful of Monads - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/a-fistful-of-monads)
+
