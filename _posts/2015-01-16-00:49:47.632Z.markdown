@@ -1,0 +1,33 @@
+---
+date: 2015-01-16T00:49:47.632Z
+---
+[Raspberry Pi - HaskellWiki](https://www.haskell.org/haskellwiki/Raspberry_Pi)
+
+[FM RDS Reception with GNURadio and RTL SDR - YouTube](https://www.youtube.com/watch?v=05i9C5lhorY)
+
+[RTL-SDR and RDS Spy with HDSDR - rtl-sdr.com](http://www.rtl-sdr.com/rtl-sdr-rds-spy-hdsdr/)
+
+[rds display sdr - Google Search](https://www.google.com.au/search?client=safari&rls=en&q=rbds+display&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=ilW4VLfzMaTu8wfdhoLQBA#rls=en&q=rds+display+sdr)
+
+[Failed to open page](http://www.anotherurl.com/library/sdr/sdrrds.htm)
+
+[RDS reception using RTL-SDR dongle  -  Dangerous Prototypes](http://dangerousprototypes.com/2013/07/20/rds-reception-using-rtl-sdr-dongle/)
+
+[Decoding RDS in GNU Radio with the RTL-SDR - rtl-sdr.com](http://www.rtl-sdr.com/decoding-rds-in-gnu-radio-with-the-rtl-sdr/)
+
+[Turning the Raspberry Pi Into an FM Transmitter - Imperial College Robotics Society](http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter)
+
+[ChristopheJacquet/PiFmRds](https://github.com/ChristopheJacquet/PiFmRds)
+
+[Raspberry Pi Radio Transmitter](http://www.instructables.com/id/Raspberry-Pi-Radio-Transmitter/)
+
+[Turning the Raspberry Pi Into an FM Transmitter - Imperial College Robotics Society](http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter)
+
+[tutorials  -  Raspberry Pi](http://www.raspberrypi.org/tag/tutorials/)
+
+[Raspberry Pi - PiFMPlay - FM-Broadcasting Simplified](http://www.instructables.com/id/Raspberry-Pi-PiFMPlay-Simplified-FM-Transmitter/)
+
+[raspberry pi fm transmitter - Google Search](https://www.google.com.au/search?client=safari&rls=en&q=raspberry+pi+fm+transmitter&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=cVK4VKjgFrLu8wfA5oKgDA)
+
+[Software-defined radio - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Software-defined_radio)
+
