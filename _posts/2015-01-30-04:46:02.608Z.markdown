@@ -1,0 +1,9 @@
+---
+date: 2015-01-30T04:46:02.608Z
+---
+[Reading and decoding RDS (Radio Data System) in C#  -  Tamir Khason - Just code](http://khason.net/blog/reading-and-decoding-rds-radio-data-system-in-c/)
+
+[Publications - RDS Forum - Radio Data System](http://www.rds.org.uk/2010/RDS-Specification.htm)
+
+[‎www.rds.org.uk/2010/pdf/R14_020_2_51.pdf](http://www.rds.org.uk/2010/pdf/R14_020_2_51.pdf)
+
