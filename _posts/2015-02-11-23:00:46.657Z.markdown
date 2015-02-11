@@ -1,0 +1,15 @@
+---
+date: 2015-02-11T23:00:46.657Z
+---
+[How to Scale Django: Beyond the Basics  -  DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics)
+
+[What Powers Instagram: Hundreds of Instances, Dozens of Technologies - Instagram Engineering](http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances)
+
+[Scaling Django to 8 Billion Page Views  -  Disqus: The Official Blog](http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views)
+
+[web applications - Does Django scale? - Stack Overflow](http://stackoverflow.com/questions/886221/does-django-scale)
+
+[(12) What are the benefits of developing in node.js versus Python? - Quora](http://www.quora.com/What-are-the-benefits-of-developing-in-node-js-versus-Python)
+
+[Thunderbolt / Mini Displayport to VGA Adapter - Kogan.com](https://www.kogan.com/au/buy/thunderbolt-mini-displayport-vga-adapter/)
+
