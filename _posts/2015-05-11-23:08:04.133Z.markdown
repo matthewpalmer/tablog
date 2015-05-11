@@ -1,0 +1,17 @@
+---
+date: 2015-05-11T23:08:04.133Z
+---
+[Adventures in Japanese UI Design: Railway Information Systems](http://designmadeinjapan.com/magazine/adventures-in-japanese-ui-design-railway-information-systems/?utm_campaign=This_Week_in_Swift_38&utm_source=This%2BWeek%2Bin%2BSwift)
+
+[trendwatching.com  -  NO INTERFACE](http://trendwatching.com/trends/no-interface/?utm_campaign=This_Week_in_Swift_38&utm_source=This%2BWeek%2Bin%2BSwift)
+
+[kiavashfaisali/KFSwiftImageLoader](https://github.com/kiavashfaisali/KFSwiftImageLoader?utm_campaign=This_Week_in_Swift_38&utm_source=This%2BWeek%2Bin%2BSwift)
+
+[Graduation  -  Khanlou.com](http://khanlou.com/2015/05/graduation/?utm_campaign=This_Week_in_Swift_38&utm_source=This%2BWeek%2Bin%2BSwift)
+
+[Strong, Weak, and Unowned - Sorting out ARC and Swift - Andrew Bancroft](http://www.andrewcbancroft.com/2015/05/08/strong-weak-and-unowned-sorting-out-arc-and-swift/?utm_campaign=This_Week_in_Swift_38&utm_source=This%2BWeek%2Bin%2BSwift)
+
+[Demystifying Retain Cycles in ARC  -  Digital Leaves](http://digitalleaves.com/blog/2015/05/demystifying-retain-cycles-in-arc/?utm_campaign=This_Week_in_Swift_38&utm_source=This%2BWeek%2Bin%2BSwift)
+
+[Sorting an Array of Dictionaries - Use Your Loaf](http://useyourloaf.com/blog/2015/05/06/sorting-an-array-of-dictionaries.html?utm_campaign=This_Week_in_Swift_38&utm_source=This%2BWeek%2Bin%2BSwift)
+
